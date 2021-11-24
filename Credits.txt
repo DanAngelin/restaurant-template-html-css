@@ -1,0 +1,13 @@
+bg.jpg --> https://www.pexels.com/photo/brown-wooden-panel-347139/
+
+meniu.jpg --> https://pixabay.com/photos/table-food-cloth-wooden-wood-3219660/
+
+rezervari.jpg --> https://www.pexels.com/photo/brown-wooden-surface-139312/
+
+img1.png, img2.png, item1.png, item2.png, item3.png, item4.png --> https://www.pngegg.com/
+
+bauturi.svg, fish.svg, paste.svg, supe.svg --> https://iconscout.com/
+
+send.gif --> https://lordicon.com/icons
+
+index.png, menu.png, reservation.png --> https://icons8.com/
